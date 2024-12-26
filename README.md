@@ -1,4 +1,4 @@
-Backend template for use 
+NextJS template for use 
 ## How to Start using:
 #### 1. Clone the repo:
 `git clone https://github.com/avneetsingh/NEXT-Frontend-Template.git`
